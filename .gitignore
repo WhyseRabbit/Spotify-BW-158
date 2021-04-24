@@ -129,3 +129,10 @@ dmypy.json
 .pyre/
 .aws/config
 .aws/credentials
+data/raw/archive/artists.csv
+data/raw/archive/data_by_artist_o.csv
+data/raw/archive/data_by_genres_o.csv
+data/raw/archive/tracks.csv
+data/raw/archive/dict_artists.json
+data/raw/archive/data_o.csv
+data/raw/archive/data_by_year_o.csv
