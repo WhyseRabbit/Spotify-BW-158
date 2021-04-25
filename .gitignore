@@ -136,3 +136,6 @@ data/raw/archive/tracks.csv
 data/raw/archive/dict_artists.json
 data/raw/archive/data_o.csv
 data/raw/archive/data_by_year_o.csv
+data/raw/Cleaning_Database.ipynb
+data/raw/Draw_from_Database.ipynb
+data/raw/archive/data.csv
